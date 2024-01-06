@@ -10,6 +10,6 @@ I'm a third year student and casual academic at <strong>UNSW Sydney</strong>. Mo
 
 <h3>Things i've done in the past</h3>
 <ul>
-  <li>I worked at <strong>Atlassian</strong> from September 2023 to Janurary 2024 as an Full-Stack Engineering Intern on the team behind the new [Jira Service Management Virtual Agent](https://www.atlassian.com/software/jira/service-management/features/itsm/virtual-agent), a virtual agent integrated with Atlassian Intelligence that automates support interactions from within Slack.</li>
+  <li>I worked at <strong>Atlassian</strong> from September 2023 to Janurary 2024 as an Full-Stack Engineering Intern on the team behind the new <a href = "https://www.atlassian.com/software/jira/service-management/features/itsm/virtual-agent">Jira Service Management Virtual Agent</a>, a virtual agent integrated with Atlassian Intelligence that automates support interactions from within Slack.</li>
   <li>I worked at <strong>Revolutionise Sport</strong> from November 2022 to Feburary 2023 as an Full-Stack Engineering Intern </li> where my I refactored, redesigned and rebuilt company platform from legacy PHP code into Laravel framework.
 </ul>
