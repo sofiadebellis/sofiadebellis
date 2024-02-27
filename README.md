@@ -5,6 +5,7 @@ I'm a third year student, course administrator and casual academic at <strong>UN
 <h3>Current projects</h3>
 <ul>
 <li>I'm a course administrator at UNSW, primarily involved with teaching and the overall running of COMP1511, a introduction to programming course in C. </li>
+<li>I'm a casual academic at UNSW, teaching COMP1511: Programming Fundamentals and COMP6080: Web Front-end Programming</li>
 <li>I'm the 2024 Vice President of Public Relations for <a href = "https://www.wiesoc.com/">UNSW Women in Engineering Society</a>.</li>
 </ul>
 
