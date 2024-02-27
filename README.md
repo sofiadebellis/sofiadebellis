@@ -1,6 +1,6 @@
 <h2><center>Hey there!</center></h3>
 
-I'm a third year student and casual academic at <strong>UNSW Sydney</strong>. Most of my commits at the moment are related to teaching, working on educational tools and (private) contributions to COMP1511 course materials/infrastructure.
+I'm a third year student, course administrator and casual academic at <strong>UNSW Sydney</strong>. Most of my commits at the moment are related to teaching, working on educational tools and (private) contributions to COMP1511 course materials/infrastructure.
 
 <h3>Current projects</h3>
 <ul>
