@@ -1,6 +1,6 @@
 <h2><center>Hey there! 👋</center></h3>
 
-I'm a Frontend Software Engineer at <strong>Atlassian<Strong>, and a Course Administrator and Casual Academic at <strong>UNSW Sydney CSE</strong>. Most of my commits at the moment are related to teaching, working on educational tools and (private) contributions to COMP1511 and COMP6080 course materials/infrastructure. ✨
+I'm a Frontend Software Engineer at <strong>Atlassian<strong>, and a Course Administrator and Casual Academic at <strong>UNSW Sydney CSE</strong>. Most of my commits at the moment are related to teaching, working on educational tools and (private) contributions to COMP1511 and COMP6080 course materials/infrastructure. ✨
 
 <h3>Current projects</h3>
 <ul>
