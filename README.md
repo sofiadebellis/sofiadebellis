@@ -4,12 +4,11 @@ I'm a Frontend Software Engineer at <strong>Atlassian</strong>, and a Course Adm
 
 <h3>Current projects</h3>
 <ul>
-<li>I'm currently a Frontend Software Engineering Grad at <strong>Atlassian</strong>. 💙</li>
-<li>I'm a course administrator at <strong>UNSW CSE</strong>, primarily involved with teaching and the overall running of COMP1511, UNSW's introduction to programming course in C and COMP6080 UNSW's web front-end programming course teaching HTML, CSS, JavaScript and ReactJS. 💻</li>
+<li>I'm currently a Frontend Software Engineer at <strong>Atlassian</strong>. 💙</li>
+<li>I'm a course administrator at <strong>UNSW CSE</strong>, primarily involved with teaching and the overall running of COMP1511, UNSW's introduction to programming course in C, COMP3511 Human Computer Interation and COMP6080 UNSW's web front-end programming course teaching HTML, CSS, JavaScript and ReactJS. 💻</li>
 <li>I'm a casual academic at UNSW, teaching COMP1511: Programming Fundamentals, COMP6080: Web Front-end Programming, COMP3511: Human Computer Interaction and COMP1911: Computing 1A 👩‍🏫</li>
 <li>I'm currently working on improving atci -- <a href="https://cgi.cse.unsw.edu.au/~cs1511/current/"> A teaching platform for COMP1511</a></li>
 <li>I’m currently working on improving eckles -- <a href="https://github.com/chamhayden/eckles">A teaching platform for COMP6080</a></li>
-<li>I'm 2025 Frontend Software Engineering grad at <strong>Atlassian</strong> 🎉</li>
 </ul>
 
 <h3>Things I've done in the past</h3>
